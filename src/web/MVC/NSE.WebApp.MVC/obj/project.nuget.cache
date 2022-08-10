@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wN14NgXz6YQ+d6FzztO8qrVH3+vTYxRbytMsW1/nMX3nvk5QYCK9Av8pH9w8Zla3P/3bfb3mmlJzat5wceP2Hg==",
+  "dgSpecHash": "oxok5xrxjlxVLEUkz3qU1/cYmTfDgEsO86ub38H7lxwXZMJaE45CF/ccOVhHYkgR+wS5SKieytZL0K8C3v/x4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rfcom\\OneDrive\\Área de Trabalho\\ProjetoEcommerceMicroServiços\\src\\web\\MVC\\NSE.WepApp.MVC\\NSE.WepApp.MVC.csproj",
+  "projectFilePath": "C:\\Users\\rfcom\\OneDrive\\Área de Trabalho\\ProjetoEcommerceMicroServicos\\src\\web\\MVC\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

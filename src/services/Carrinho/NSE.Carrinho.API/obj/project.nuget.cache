@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ypK8td7Iws5DzwXok5A3uFS1gH1e4wA/nSp5QpfmUxAC88m0x3zM0Zo0J2ryLNx/AK3IuhWFyudKNmV/KH4JeA==",
+  "dgSpecHash": "+B1rTV3N11n2VH7NYE9fSjwIava77xpt73KxPbBL98ehk0JuXmCCfMkOy6FxJqIvt8p6JCBbTiJi/d7jc3DNzg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rfcom\\OneDrive\\Área de Trabalho\\ProjetoEcommerceMicroServiços\\src\\services\\Carrinho\\NSE.Carrinho.API\\NSE.Carrinho.API.csproj",
+  "projectFilePath": "C:\\Users\\rfcom\\OneDrive\\Área de Trabalho\\ProjetoEcommerceMicroServicos\\src\\services\\Carrinho\\NSE.Carrinho.API\\NSE.Carrinho.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rfcom\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\rfcom\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

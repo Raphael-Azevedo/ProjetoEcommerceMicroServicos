@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rfcom\\OneDrive\\Área de Trabalho\\ProjetoEcommerceMicroServiços\\src\\web\\MVC\\NSE.WepApp.MVC\\NSE.WepApp.MVC.csproj",
-      "projectName": "NSE.WepApp.MVC",
-      "projectPath": "C:\\Users\\rfcom\\OneDrive\\Área de Trabalho\\ProjetoEcommerceMicroServiços\\src\\web\\MVC\\NSE.WepApp.MVC\\NSE.WepApp.MVC.csproj",
+      "projectUniqueName": "C:\\Users\\rfcom\\OneDrive\\Área de Trabalho\\ProjetoEcommerceMicroServicos\\src\\web\\MVC\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj",
+      "projectName": "NSE.WebApp.MVC",
+      "projectPath": "C:\\Users\\rfcom\\OneDrive\\Área de Trabalho\\ProjetoEcommerceMicroServicos\\src\\web\\MVC\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj",
       "packagesPath": "C:\\Users\\rfcom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rfcom\\OneDrive\\Área de Trabalho\\ProjetoEcommerceMicroServiços\\src\\web\\MVC\\NSE.WepApp.MVC\\obj\\",
+      "outputPath": "C:\\Users\\rfcom\\OneDrive\\Área de Trabalho\\ProjetoEcommerceMicroServicos\\src\\web\\MVC\\NSE.WebApp.MVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -68,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }

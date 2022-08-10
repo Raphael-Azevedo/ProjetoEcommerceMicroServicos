@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1Zm3EOs1QFvSSmFaOneYaGuMFdV0RfaPzPyMTOXcvpkgAxVpbmaZt/ecz32ASZ46Wsafz8UNlItKfXtJWsXWyQ==",
+  "dgSpecHash": "bbnkFFBsn2fYFpKCymQW8P65EHzBwpFcQzQV9CMEEn2L4zaA2Fw9jVpvweYR7TFrqYQLfkWxu9wtzmVmaqBm1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rfcom\\OneDrive\\Área de Trabalho\\ProjetoEcommerceMicroServiços\\src\\services\\Catalogo\\NSE.Catalogo.API\\NSE.Catalogo.API.csproj",
+  "projectFilePath": "C:\\Users\\rfcom\\OneDrive\\Área de Trabalho\\ProjetoEcommerceMicroServicos\\src\\services\\Catalogo\\NSE.Catalogo.API\\NSE.Catalogo.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rfcom\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\rfcom\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
