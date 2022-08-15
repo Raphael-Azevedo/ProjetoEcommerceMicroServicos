@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "oxok5xrxjlxVLEUkz3qU1/cYmTfDgEsO86ub38H7lxwXZMJaE45CF/ccOVhHYkgR+wS5SKieytZL0K8C3v/x4A==",
+  "dgSpecHash": "3qtaCGLok/nKg+0Gz0nsiWGLW1McExlXBZGTeSqlBFoDwwIFOhsNt2fskDnQxtiw7GZ3tiw1NVRzZHNCxgt+5w==",
   "success": true,
   "projectFilePath": "C:\\Users\\rfcom\\OneDrive\\Área de Trabalho\\ProjetoEcommerceMicroServicos\\src\\web\\MVC\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\rfcom\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.17\\microsoft.aspnetcore.authentication.jwtbearer.5.0.17.nupkg.sha512",
+    "C:\\Users\\rfcom\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\rfcom\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.7.1\\microsoft.identitymodel.jsonwebtokens.6.7.1.nupkg.sha512",
+    "C:\\Users\\rfcom\\.nuget\\packages\\microsoft.identitymodel.logging\\6.7.1\\microsoft.identitymodel.logging.6.7.1.nupkg.sha512",
+    "C:\\Users\\rfcom\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.7.1\\microsoft.identitymodel.protocols.6.7.1.nupkg.sha512",
+    "C:\\Users\\rfcom\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.7.1\\microsoft.identitymodel.protocols.openidconnect.6.7.1.nupkg.sha512",
+    "C:\\Users\\rfcom\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.7.1\\microsoft.identitymodel.tokens.6.7.1.nupkg.sha512",
+    "C:\\Users\\rfcom\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.7.1\\system.identitymodel.tokens.jwt.6.7.1.nupkg.sha512",
+    "C:\\Users\\rfcom\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
