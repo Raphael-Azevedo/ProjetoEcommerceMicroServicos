@@ -3,6 +3,8 @@ using System.Net.Http;
 using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
+using Microsoft.Extensions.Options;
+using NSE.WebApp.MVC.Extensions;
 using NSE.WebApp.MVC.ViewModels;
 
 namespace NSE.WebApp.MVC.services
@@ -11,8 +13,10 @@ namespace NSE.WebApp.MVC.services
     {
         private readonly HttpClient _httpCliente;
 
-        public AutenticacaoService(HttpClient httpCliente)
+        public AutenticacaoService(HttpClient httpCliente, IOptions<AppSettings> settings)
         {
+            httpCliente.BaseAddress = new Uri(settings.Value.AutenticacaoUrl);
+
             _httpCliente = httpCliente;
         }
 
@@ -23,7 +27,7 @@ namespace NSE.WebApp.MVC.services
                 Encoding.UTF8,
                 "Application/json"
             );
-            var response = await _httpCliente.PostAsync("https://localhost:5001/api/identidade/autenticar", loginContent);
+            var response = await _httpCliente.PostAsync("/api/identidade/autenticar", loginContent);
 
             var options = new JsonSerializerOptions
             {
@@ -48,7 +52,7 @@ namespace NSE.WebApp.MVC.services
                 Encoding.UTF8,
                 "Application/json"
             );
-            var response = await _httpCliente.PostAsync("https://localhost:5001/api/identidade/registrar", registroContent);
+            var response = await _httpCliente.PostAsync("/api/identidade/registrar", registroContent);
 
             var options = new JsonSerializerOptions
             {
